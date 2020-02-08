@@ -8,7 +8,7 @@ public class Now {
     @SerializedName("cond")
     public More more;
     public class More{
-        @SerializedName("text")
+        @SerializedName("txt")
         public String info;
     }
 }
