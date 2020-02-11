@@ -30,7 +30,6 @@
                     <include layout="@layout/title"/>
                     <include layout="@layout/now"/>
                     <include layout="@layout/forecast"/>
-                    <include layout="@layout/aqi"/>
                     <include layout="@layout/suggestion"/>
                 </LinearLayout>
             </ScrollView>
@@ -43,5 +42,4 @@
             android:layout_gravity="start"
             />
     </androidx.drawerlayout.widget.DrawerLayout>
-
 </FrameLayout>
